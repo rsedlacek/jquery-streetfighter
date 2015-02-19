@@ -25,6 +25,33 @@ body {
   float: left;
 }
 
+.text-content {
+  position: absolute;
+  left: 600px;
+  height: 425px;
+  padding-top: 300px;
+  font-family: 'Chewy', cursive;
+}
+
+.instructions {
+  display: block;
+  line-height: 55px;
+  font-size: 30px;
+  color: black;
+}
+
+.instructions h1 {
+  margin-left: 100px;
+}
+
+.instructions h2 {
+  margin-left: 200px;
+}
+
+.instructions h3 {
+  margin-left: 300px;
+}
+
 .ryu {
 	float: left;
 }
