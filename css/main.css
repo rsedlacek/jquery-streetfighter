@@ -5,7 +5,7 @@ body {
 .main {
   background-color: white;
   margin-top: 110px;
-  padding-left: 100px;
+  padding-left: 25px;
   min-width: 1200px;
   height: 500px;
 }
@@ -26,30 +26,21 @@ body {
 }
 
 .text-content {
-  position: absolute;
-  left: 600px;
-  height: 425px;
-  padding-top: 300px;
   font-family: 'Chewy', cursive;
+  padding-top:  300px;
+  margin-right: 200px;
+  margin-left: 663px;
 }
 
 .instructions {
-  display: block;
   line-height: 55px;
   font-size: 30px;
   color: black;
 }
 
-.instructions h1 {
-  margin-left: 100px;
-}
-
-.instructions h2 {
-  margin-left: 200px;
-}
-
-.instructions h3 {
-  margin-left: 300px;
+.instructions {
+  margin-left: 15px;
+  font-size: 100%;
 }
 
 .ryu {
